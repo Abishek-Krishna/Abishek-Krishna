@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abishek alias Krishna</h1>
-<h3 align="center">Keen on learning new stuff. Laziness Purchase Creativity.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/Hi.gif" width="40" height="40"> I'm Abishek alias Krishna</h1>
+<<h3 align="center">Keen on learning new stuff. <b>Laziness Purchase Creativity.</b></h3>
 <img alt="Coder GIF" height=250 width=350 align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <p align="left"> <a href="https://twitter.com/abishek67194135" target="blank"><img src="https://img.shields.io/twitter/follow/abishek67194135?logo=twitter&style=for-the-badge" alt="abishek67194135" /></a> </p>
 
